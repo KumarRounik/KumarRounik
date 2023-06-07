@@ -11,21 +11,21 @@
 
 - 💬 Ask me about *CPP,DSA,React,Node*
 
-- 📫 How to reach me *bhavesh953475@gmail.com*
+- 📫 How to reach me *rounikpandey@gmail.com*
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/63_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="63_bhavesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavesh-kumar-4a3b48209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-kumar-4a3b48209" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17899078/joker38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17899078/joker38" height="30" width="40" /></a>
-<a href="https://fb.com/bhavesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhavesh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/itsbhaveshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsbhaveshkumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/joker_038" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="joker_038" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/joker38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="joker38" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhavesh953475/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavesh953475/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/joker38/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="joker38/" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/63_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="63_bhavesh" height="30" width="40" /></a> -->
+<a href="https://github.com/KumarRounik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KumarRounik" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/17899078/joker38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17899078/joker38" height="30" width="40" /></a> -->
+<a href="https://www.facebook.com/kumar.rounik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kumar Rounik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/k.rounik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rounik Pandey" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kumar_rounik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumar_rounik" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rounikpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rounikpandey" height="30" width="40" /></a>
+<a href="https://leetcode.com/Kumar_Rounik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kumar_Rounik" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rounikpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rounikpandey" heightrounikpandey="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
