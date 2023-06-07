@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/63_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="63_bhavesh" height="30" width="40" /></a> -->
-<a href="https://github.com/KumarRounik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KumarRounik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-rounik-794505238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kumar Rounik" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/17899078/joker38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17899078/joker38" height="30" width="40" /></a> -->
 <a href="https://www.facebook.com/kumar.rounik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kumar Rounik" height="30" width="40" /></a>
 <a href="https://www.instagram.com/k.rounik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rounik Pandey" height="30" width="40" /></a>
