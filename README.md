@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *rounikpandey@gmail.com*
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
